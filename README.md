@@ -15,7 +15,7 @@ Solução:
 	
 	Implementação do Partnner Regexp para validação de senhas com spring boot java
 	
-	URL de referÊncia: https://qastack.com.br/programming/3802192/regexp-java-for-password-validation
+	URL de referência: https://qastack.com.br/programming/3802192/regexp-java-for-password-validation
 	
 	Implementação de JUnit como teste unitário e documentação Swagger
 
